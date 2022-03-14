@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fede-YaoPai
 - 👀 I’m interested in Angular / TypeScript
-- 🌱 I’m currently learning creating and publishing Angular libraries on NPM
+- 🌱 I’m currently learning how to create and publish Angular libraries on NPM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: federico.lecca89@gmail.com
 
